@@ -24,7 +24,7 @@ ctx.drawImage(image,0,0);
 let name = document.getElementById("nameInput").value;
 
 /* Large font size */
-ctx.font = "110px Arial";
+ctx.font = "110px HTBaybarsDisplay-Medium";
 
 ctx.fillStyle = "#000000";
 
