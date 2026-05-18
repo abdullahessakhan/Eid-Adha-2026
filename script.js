@@ -26,7 +26,7 @@ let name = document.getElementById("nameInput").value;
 /* Large font size */
 ctx.font = "110px Arial";
 
-ctx.fillStyle = "black";
+ctx.fillStyle = "#000000";
 
 ctx.textAlign = "center";
 
