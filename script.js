@@ -24,14 +24,14 @@ ctx.drawImage(image,0,0);
 let name = document.getElementById("nameInput").value;
 
 /* Large font size */
-ctx.font = "90px Arial";
+ctx.font = "110px Arial";
 
 ctx.fillStyle = "#8b5e3c";
 
 ctx.textAlign = "center";
 
 /* Position between text and mosque */
-ctx.fillText(name, canvas.width/2, canvas.height * 0.63);
+ctx.fillText(name, canvas.width/2, canvas.height * 0.52);
 
 
 /* Hide input + generate button */
